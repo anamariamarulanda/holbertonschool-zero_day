@@ -1,4 +1,2 @@
 #!/bin/bash
-git add .
-git commit -m 'up_to_date'
-git push
+git pull origin main 
